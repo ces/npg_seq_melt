@@ -1,5 +1,6 @@
 ChangeLog
 ==========
+- top-up-merge modules added to query for merges needed and to set off  wr jobs for p4 and QC
 
 release 3.14
 - use file name generator from npg_pipeline::product
